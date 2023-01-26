@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+}
+
+.color1{
+    background-color: #F2F2F2;
+}
+
+.color2{
+    background-color:  #F2A2A2;
+}
+
+.color3{
+    background-color: #D95252;
+}
+
+.color4{
+    background-color: #D93D3D;
+}
+
+.color5{
+    background-color: #D92B2B;
+}
+
+.text-red{
+    color: #D92B2B;
+}
+
+.text-color1{
+    color: #F2F2F2;
+}
+
+.text-news{
+    font-family: 'Noticia Text', serif;
+}
+
+.w-30{
+    width: 30%;
+}
